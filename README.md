@@ -46,24 +46,6 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pushpak05&show_icons=true&theme=radical" alt="Pushpak's GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pushpak05&theme=radical" alt="GitHub Streak" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushpak05&layout=compact&theme=radical" alt="Top Languages" height="180"/>
-</p>
-
----
-
-## 🏆 Achievements
-
-- 👨‍💻 Web Development & SEO Intern at <a href="https://rewoks.in/" target="_blank">Rewoks.in</a>
-- 📸 Winner of Prayagraj Mahakumbh Photography Challenge organized by Wikimedia Club
-- 🚀 Intern at CodeResite
-- 🎓 Pursuing BTech in AIML at United College of Engineering and Research
 
 ---
 
@@ -97,9 +79,6 @@
 ## 💬 Contact
 
 📧 Email: <a href="mailto:21240052.pushpak@united.edu.in" target="_blank">21240052.pushpak@united.edu.in</a><br>
-📱 Instagram: <a href="https://www.instagram.com/pushpak_tiwari_26/" target="_blank">pushpak_tiwari_26</a><br>
+📱 Whatsapp: <a href="https://wa.me/+917355559797" target="_blank">>Pushpak Tiwari</a><br>
 📁 Linktree: <a href="https://linktr.ee/pushpaktiwari" target="_blank">linktr.ee/pushpaktiwari</a>
 
----
-
-⭐ <b>Feel free to star this repository if you like it!</b>
