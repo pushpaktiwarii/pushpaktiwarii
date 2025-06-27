@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Pushpak Tiwari</h1>
-<h3 align="center">🚀 Problem detected? I'm your solution!</h3>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/101932624?v=4" width="200" style="border-radius:50%" alt="Pushpak's Profile Picture" />
