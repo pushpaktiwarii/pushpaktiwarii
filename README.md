@@ -1,9 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Pushpak Tiwari</h1>
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Pushpak+Tiwari;Web+Developer+%7C+AI+Learner+%7C+Content+Creator;Let's+build+something+awesome+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Pushpak+Tiwari;Web+Developer+%7C+AI+Learner+%7C+Content+Creator;Let's+build+something+awesome+together!" alt="Typing SVG" />
 </p>
+
 
 
 
@@ -11,10 +9,12 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning: <b>Advanced CSS, JavaScript, and AI/ML</b>
-- 🤝 Looking to collaborate on <b>web, AI/ML, and creative projects</b>
-- 🔭 Working on building <b>community platforms, making good connections and exploring</b>
--  Fun fact: <b>I love capturing daily life moments and uploading them on Instagram!</b>
+- Currently learning: <b>Development, basics of AI/ML, and cloud concepts</b>
+-  Actively building strong connections with like-minded tech enthusiasts and professionals
+-  Exploring new opportunities, tools, and technologies to expand my skills and exposure
+-  Passionate about combining creativity and technology to build impactful projects
+-  Focused on continuous improvement and sharing knowledge with the community
+
 
 ---
 
