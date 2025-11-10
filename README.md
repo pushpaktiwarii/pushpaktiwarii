@@ -7,7 +7,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4000&pause=600&color=8E2DE2&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Pushpak+Tiwari!;AI+%26+Web+Developer;GDG+Core+Team+Member;E-Cell+Leader+%7C+Website+Developer;Turning+Ideas+into+Digital+Reality"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4000&pause=600&color=8E2DE2&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Pushpak+Tiwari!;AI+%26+Web+Developer;GDG+Core+Team+Member;E-Cell+Coordinator+%7C+Website+Developer;Turning+Ideas+into+Digital+Reality"/>
 </a>
 
 
