@@ -14,7 +14,7 @@
 ### About Me  
 **AI & Web Developer** passionate about building smart, scalable, and impactful web applications.  
  **Core Team Member @ GDG DevFest Prayagraj** — managing event branding, social media, and outreach.  
- **E-Cell Leader @ UCR College** — leading digital transformation by developing the **official E-Cell website** & AI-powered **Startup Assistant** tool.  
+ **E-Cell Leader @ UCER College** — leading digital transformation by developing the **official E-Cell website** & AI-powered **Startup Assistant** tool.  
  Always exploring **Generative AI**, **MERN Stack**, and **Web Automation**.  
  Outside code, I love **photography, videography**, and creating visual stories for my social media.  
 
