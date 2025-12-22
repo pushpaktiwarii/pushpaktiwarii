@@ -35,7 +35,7 @@
  **Startup Assistant AI**  
 → An AI-powered web tool integrated into the E-Cell website to generate startup ideas, pitch decks, and taglines for aspiring entrepreneurs.  
 
- **E-Cell Website (UCR College)**  
+ **E-Cell Website (UCER College)**  
 → Official Entrepreneurship Cell website designed and developed from scratch with responsive UI, event sections, and integrated AI features.  
 
  **Enigma XIII Website**  
