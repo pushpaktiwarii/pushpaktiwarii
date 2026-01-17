@@ -84,18 +84,11 @@
 
 ### 💼 For Recruiters
 > [!IMPORTANT]  
-> 📄 <a href="https://drive.google.com/file/d/1zvQ7YbF3QxSampleLink/view?usp=sharing" target="_blank">Download My Resume</a>  
+> 📄 <a href="https://drive.google.com/file/d/1YmQsxPF-Yo6IFnvAaPRMrRMAMw2fQNhp/view?usp=sharing" target="_blank">Download My Resume</a>  
 
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=120&section=footer"/>
-
-## 📊Statistics
-
-   <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="600"></p>
-
-   
-> El Psy Kongroo
 
 -----
 <!-- 
