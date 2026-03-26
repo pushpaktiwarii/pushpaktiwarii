@@ -20,15 +20,7 @@
 
 ---
 
-### ⚙️ Tech Stack
 
-#### Core Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,mongodb,firebase,git,github,python,c)](https://skillicons.dev)
-
-#### Exploring
-[![Learning](https://skillicons.dev/icons?i=nextjs,js,typescript,nodejs,express,tailwind,aws,cpp,azure,gemini)](https://skillicons.dev)
-
----
 
 ###  Featured Projects  
 
