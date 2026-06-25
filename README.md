@@ -74,10 +74,6 @@
 </div>
 
 
-### 💼 For Recruiters
-> [!IMPORTANT]  
-> 📄 <a href="https://drive.google.com/file/d/1YmQsxPF-Yo6IFnvAaPRMrRMAMw2fQNhp/view?usp=sharing" target="_blank">Download My Resume</a>  
-
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=120&section=footer"/>
