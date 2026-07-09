@@ -33,8 +33,6 @@
  **Enigma XIII Website**  
 → Event management + registration system with Firebase backend and Razorpay payment integration.  
 
- **Amar v3 (AI Voice Assistant)**  
-→ Gemini API–based smart assistant capable of handling voice commands and natural conversation.  
 
 
 ---
